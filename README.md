@@ -1,4 +1,4 @@
-Building what I find cool. Current obsession is Tinytune.
+Adding signal to the void.
 
 <!---
 rishit-singh/rishit-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
